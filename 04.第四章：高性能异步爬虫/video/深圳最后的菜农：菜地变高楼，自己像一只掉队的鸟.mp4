@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>60320331C1E6C93330E78301</RequestId>
+  <HostId>pv-prod-video-trans.oss-cn-shanghai.aliyuncs.com</HostId>
+  <Key>mp4/adshort/20210126/cont-1716467-141-195657_adpkg</Key>
+</Error>
